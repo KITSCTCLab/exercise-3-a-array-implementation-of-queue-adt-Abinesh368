@@ -1,22 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Karunya University Mail with screen readers
-Enable desktop notifications for Karunya University Mail.
-   OK  No thanks
-
-2 of 981
-(no subject)
-Inbox
-
-VANNURANNAGARI GNANASAI URK21CS1191 <vannurannagari@karunya.edu.in>
-Attachments
-12:06 PM (1 minute ago)
-to me
-
-
-Attachments area
 class Solution:
     """This class implements linear queue.
       Attributes:
@@ -180,5 +161,3 @@ if is_palindrome:
     print("The word, " + text + ", is a palindrome.")
 else:
     print("The word, " + text + ", is not a palindrome.")
-New Text Document.txt
-Displaying New Text Document.txt.
